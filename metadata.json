@@ -1,0 +1,8 @@
+{
+  "name": "GXQ Network - Quantum Blockchain & DeFi Command Center",
+  "description": "Enterprise-grade Quantum Blockchain ecosystem featuring high-throughput sharding, DEX Swap, Lattice Mining, Smart Contracts VM, Cross-Chain Bridge, and AI Intelligence Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
